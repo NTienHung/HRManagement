@@ -1,0 +1,39 @@
+CREATE DATABASE HRPrinterDB;
+GO
+
+USE HRPrinterDB;
+GO
+
+CREATE TABLE Departments (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Name NVARCHAR(100) NOT NULL
+);
+
+CREATE TABLE Employees (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Name NVARCHAR(100) NOT NULL,
+    DepartmentId INT,
+    CreatedAt DATETIME DEFAULT GETDATE(),
+
+    FOREIGN KEY (DepartmentId) REFERENCES Departments(Id)
+);
+
+CREATE TABLE PrintJobs (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    CreatedAt DATETIME DEFAULT GETDATE(),
+    Status NVARCHAR(50)
+);
+
+INSERT INTO Departments (Name)
+VALUES (N'IT'), (N'HR'), (N'Finance');
+
+INSERT INTO Employees (Name, DepartmentId)
+VALUES 
+(N'Nguyen Van A', 1),
+(N'Tran Thi B', 2),
+(N'Le Van C', 1);
+
+SELECT d.Name, COUNT(e.Id) AS TotalEmployees
+FROM Departments d
+LEFT JOIN Employees e ON d.Id = e.DepartmentId
+GROUP BY d.Name;

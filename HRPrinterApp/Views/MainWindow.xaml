@@ -1,0 +1,55 @@
+﻿<Window x:Class="HRPrinterApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HRPrinterApp"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        Height="450"
+        Width="800">
+
+    <Grid>
+
+        <StackPanel Margin="10">
+
+            <ComboBox Width="200"
+              Margin="0 0 0 10"
+              ItemsSource="{Binding Departments}"
+              SelectedItem="{Binding SelectedDepartment}"
+              DisplayMemberPath="Name" />
+
+            <Button Content="Load Employees"
+            Width="150"
+            Margin="0 0 0 10"
+            Command="{Binding LoadCommand}" />
+
+            <Button Content="Add Employee"
+            Width="150"
+            Margin="0 0 0 10"
+            Command="{Binding AddCommand}" />
+
+            <Button Content="Delete Employee"
+            Width="150"
+            Margin="0 0 0 10"
+            Command="{Binding DeleteCommand}" />
+
+            <!-- Data -->
+            <DataGrid ItemsSource="{Binding Employees}"
+              SelectedItem="{Binding SelectedEmployee}"
+              AutoGenerateColumns="False"
+              Height="300">
+
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Id" Binding="{Binding Id}" />
+                    <DataGridTextColumn Header="Name" Binding="{Binding Name}" />
+                    <DataGridTextColumn Header="Department" Binding="{Binding Department.Name}" />
+                </DataGrid.Columns>
+
+            </DataGrid>
+
+        </StackPanel>
+
+    </Grid>
+
+</Window>

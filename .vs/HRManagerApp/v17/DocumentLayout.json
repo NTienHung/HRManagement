@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE34262-F527-40C9-93A9-9F77132E8DE6}|HRPrinterApp\\HRPrinterApp.csproj|d:\\fpt\\fa24(block 5)\\hrprinter\\hrprinterapp\\hrprinterapp\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE34262-F527-40C9-93A9-9F77132E8DE6}|HRPrinterApp\\HRPrinterApp.csproj|solutionrelative:hrprinterapp\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE34262-F527-40C9-93A9-9F77132E8DE6}|HRPrinterApp\\HRPrinterApp.csproj|d:\\fpt\\fa24(block 5)\\hrprinter\\hrprinterapp\\hrprinterapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE34262-F527-40C9-93A9-9F77132E8DE6}|HRPrinterApp\\HRPrinterApp.csproj|solutionrelative:hrprinterapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE34262-F527-40C9-93A9-9F77132E8DE6}|HRPrinterApp\\HRPrinterApp.csproj|d:\\fpt\\fa24(block 5)\\hrprinter\\hrprinterapp\\hrprinterapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE34262-F527-40C9-93A9-9F77132E8DE6}|HRPrinterApp\\HRPrinterApp.csproj|solutionrelative:hrprinterapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE34262-F527-40C9-93A9-9F77132E8DE6}|HRPrinterApp\\HRPrinterApp.csproj|d:\\fpt\\fa24(block 5)\\hrprinter\\hrprinterapp\\hrprinterapp\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE34262-F527-40C9-93A9-9F77132E8DE6}|HRPrinterApp\\HRPrinterApp.csproj|solutionrelative:hrprinterapp\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE34262-F527-40C9-93A9-9F77132E8DE6}|HRPrinterApp\\HRPrinterApp.csproj|d:\\fpt\\fa24(block 5)\\hrprinter\\hrprinterapp\\hrprinterapp\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE34262-F527-40C9-93A9-9F77132E8DE6}|HRPrinterApp\\HRPrinterApp.csproj|solutionrelative:hrprinterapp\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE34262-F527-40C9-93A9-9F77132E8DE6}|HRPrinterApp\\HRPrinterApp.csproj|d:\\fpt\\fa24(block 5)\\hrprinter\\hrprinterapp\\hrprinterapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAE34262-F527-40C9-93A9-9F77132E8DE6}|HRPrinterApp\\HRPrinterApp.csproj|solutionrelative:hrprinterapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE34262-F527-40C9-93A9-9F77132E8DE6}|HRPrinterApp\\HRPrinterApp.csproj|d:\\fpt\\fa24(block 5)\\hrprinter\\hrprinterapp\\hrprinterapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE34262-F527-40C9-93A9-9F77132E8DE6}|HRPrinterApp\\HRPrinterApp.csproj|solutionrelative:hrprinterapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE34262-F527-40C9-93A9-9F77132E8DE6}|HRPrinterApp\\HRPrinterApp.csproj|d:\\fpt\\fa24(block 5)\\hrprinter\\hrprinterapp\\hrprinterapp\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CAE34262-F527-40C9-93A9-9F77132E8DE6}|HRPrinterApp\\HRPrinterApp.csproj|solutionrelative:hrprinterapp\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE34262-F527-40C9-93A9-9F77132E8DE6}|HRPrinterApp\\HRPrinterApp.csproj|d:\\fpt\\fa24(block 5)\\hrprinter\\hrprinterapp\\hrprinterapp\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE34262-F527-40C9-93A9-9F77132E8DE6}|HRPrinterApp\\HRPrinterApp.csproj|solutionrelative:hrprinterapp\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE34262-F527-40C9-93A9-9F77132E8DE6}|HRPrinterApp\\HRPrinterApp.csproj|d:\\fpt\\fa24(block 5)\\hrprinter\\hrprinterapp\\hrprinterapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE34262-F527-40C9-93A9-9F77132E8DE6}|HRPrinterApp\\HRPrinterApp.csproj|solutionrelative:hrprinterapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE34262-F527-40C9-93A9-9F77132E8DE6}|HRPrinterApp\\HRPrinterApp.csproj|d:\\fpt\\fa24(block 5)\\hrprinter\\hrprinterapp\\hrprinterapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CAE34262-F527-40C9-93A9-9F77132E8DE6}|HRPrinterApp\\HRPrinterApp.csproj|solutionrelative:hrprinterapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE34262-F527-40C9-93A9-9F77132E8DE6}|HRPrinterApp\\HRPrinterApp.csproj|d:\\fpt\\fa24(block 5)\\hrprinter\\hrprinterapp\\hrprinterapp\\hrprinterapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CAE34262-F527-40C9-93A9-9F77132E8DE6}|HRPrinterApp\\HRPrinterApp.csproj|solutionrelative:hrprinterapp\\hrprinterapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\HRPrinterApp\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "HRPrinterApp\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\HRPrinterApp\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "HRPrinterApp\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T02:58:22.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\HRPrinterApp\\Repositories\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HRPrinterApp\\Repositories\\AppDbContext.cs",
+              "ToolTip": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\HRPrinterApp\\Repositories\\AppDbContext.cs",
+              "RelativeToolTip": "HRPrinterApp\\Repositories\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T02:51:34.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\HRPrinterApp\\appsettings.json",
+              "RelativeDocumentMoniker": "HRPrinterApp\\appsettings.json",
+              "ToolTip": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\HRPrinterApp\\appsettings.json",
+              "RelativeToolTip": "HRPrinterApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-07T02:53:07.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\HRPrinterApp\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "HRPrinterApp\\Models\\Department.cs",
+              "ToolTip": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\HRPrinterApp\\Models\\Department.cs",
+              "RelativeToolTip": "HRPrinterApp\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T02:50:25.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\HRPrinterApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "HRPrinterApp\\Models\\Employee.cs",
+              "ToolTip": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\HRPrinterApp\\Models\\Employee.cs",
+              "RelativeToolTip": "HRPrinterApp\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T02:50:51.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\HRPrinterApp\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "HRPrinterApp\\Commands\\RelayCommand.cs",
+              "ToolTip": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\HRPrinterApp\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "HRPrinterApp\\Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T05:07:41.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\HRPrinterApp\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "HRPrinterApp\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\HRPrinterApp\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "HRPrinterApp\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwD8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T05:08:44.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\HRPrinterApp\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HRPrinterApp\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\HRPrinterApp\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "HRPrinterApp\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-07T02:13:08.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\HRPrinterApp\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HRPrinterApp\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\HRPrinterApp\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HRPrinterApp\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vxQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T02:13:07.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\HRPrinterApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "HRPrinterApp\\AssemblyInfo.cs",
+              "ToolTip": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\HRPrinterApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "HRPrinterApp\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T02:13:41.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\HRPrinterApp\\App.xaml",
+              "RelativeDocumentMoniker": "HRPrinterApp\\App.xaml",
+              "ToolTip": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\HRPrinterApp\\App.xaml",
+              "RelativeToolTip": "HRPrinterApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-07T02:49:33.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HRPrinterApp",
+              "DocumentMoniker": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\HRPrinterApp\\HRPrinterApp.csproj",
+              "RelativeDocumentMoniker": "HRPrinterApp\\HRPrinterApp.csproj",
+              "ToolTip": "D:\\FPT\\FA24(block 5)\\HRPrinter\\HRPrinterApp\\HRPrinterApp\\HRPrinterApp.csproj",
+              "RelativeToolTip": "HRPrinterApp\\HRPrinterApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-07T02:53:06.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
